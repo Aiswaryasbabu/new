@@ -4,3 +4,5 @@ git status
 to find untracked files
 git add -A
 adding all changes
+git commit
+adding msg
