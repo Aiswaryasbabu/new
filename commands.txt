@@ -1,2 +1,6 @@
 git init
 intialization
+git status
+to find untracked files
+git add -A
+adding all changes
